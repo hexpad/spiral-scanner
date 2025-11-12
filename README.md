@@ -3,6 +3,7 @@
 This program performs a 3D spiral scan. The calculated x, y, and z coordinates are saved in the SpiralScan.txt file. It can be used for radar simulations or other applications requiring spiral scanning coordinates. 
 
 
+<img width="595" height="538" alt="spiral" src="https://github.com/user-attachments/assets/50a755d2-84bf-4976-987b-6d167eac3840" />
 
 
 ```c
